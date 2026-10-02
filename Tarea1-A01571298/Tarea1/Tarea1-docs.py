@@ -1,7 +1,7 @@
 
 # Diego Torre A01571298
 # 01/10/2026
-
+# Liga github: https://github.com/dtdamm/Compiladores_A01571298/tree/main/Tarea1-A01571298
 """Implementacion y Documentacion de Dict, Fila y pila en Python con casos de preuba y manipulacion para verificar funcionalidad de funciones primarias.
 
 Use una herramienta externa para generar el boiler-plate de las estrcuturas. La documentacion fue hecha por mi dentro del codigo usando las "Python Google Coding Conventions", tanto de las implementaciones como de los test cases. La funcionalidad se puede verificar ejecutando el segundo archivo de pruebas en el directorio.
